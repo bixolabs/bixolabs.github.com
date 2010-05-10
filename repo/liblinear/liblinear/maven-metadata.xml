@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>liblinear</groupId>
+  <artifactId>liblinear</artifactId>
+  <version>1.51-bixolabs-1</version>
+  <versioning>
+    <versions>
+      <version>1.51-bixolabs-1</version>
+    </versions>
+    <lastUpdated>20100510210910</lastUpdated>
+  </versioning>
+</metadata>
