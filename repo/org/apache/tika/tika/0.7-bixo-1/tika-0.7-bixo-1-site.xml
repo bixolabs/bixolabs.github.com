@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><project xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd" name="Apache Tika" xmlns="http://maven.apache.org/DECORATION/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <bannerLeft>
+    <src>http://lucene.apache.org/tika/tika.png</src>
+    <alt>Apache Tika</alt>
+    <href>http://lucene.apache.org/tika/</href>
+  </bannerLeft>
+  <bannerRight>
+    <src>http://lucene.apache.org/images/lucene_green_300.gif</src>
+    <alt>Apache Lucene</alt>
+    <href>http://lucene.apache.org/</href>
+  </bannerRight>
+  <body>
+    <head></head>
+    <links>
+      <item name="Apache" href="http://www.apache.org/" />
+      <item name="Lucene" href="http://lucene.apache.org/" />
+    </links>
+    <menu name="Apache Tika">
+      <item name="Changes" href="index.html" />
+      <item name="Getting Started" href="gettingstarted.html" />
+      <item name="Supported Formats" href="formats.html" />
+      <item name="Parser API" href="parser.html" />
+    </menu>
+    <menu ref="reports" />
+  </body>
+</project>
