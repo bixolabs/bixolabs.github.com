@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.netlib.jlapack</groupId>
+  <artifactId>blas_simple</artifactId>
+  <version>0.8</version>
+  <versioning>
+    <versions>
+      <version>0.8</version>
+    </versions>
+    <lastUpdated>20100510204930</lastUpdated>
+  </versioning>
+</metadata>
