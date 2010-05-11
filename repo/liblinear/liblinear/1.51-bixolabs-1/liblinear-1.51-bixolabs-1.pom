@@ -84,7 +84,6 @@
         	<groupId>org.netlib.jlapack</groupId>
         	<artifactId>blas</artifactId>
         	<version>0.8</version>
-        	<scope>test</scope>
         </dependency>
 
         <!-- dependencies for unit testing -->
