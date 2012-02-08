@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>digitalpebble</groupId>
+  <artifactId>textclassification</artifactId>
+  <version>1.5-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110214030506</lastUpdated>
+  </versioning>
+</metadata>
