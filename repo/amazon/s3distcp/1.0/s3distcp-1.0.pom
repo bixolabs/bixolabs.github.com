@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	      
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>amazon</groupId>
+	<artifactId>s3distcp</artifactId>
+	<name>S3-Optimized Distributed Copy Tool</name>
+	<url>http://docs.amazonwebservices.com/ElasticMapReduce/latest/DeveloperGuide/UsingEMR_s3distcp.html</url>
+	<description>Apache DistCp is an open-source tool you can use to copy large amounts of data. DistCp uses MapReduce to copy in a distributed manner— sharing the copy, error handling, recovery, and reporting tasks across several servers. S3DistCp is an extension of DistCp that is optimized to work with Amazon Web Services, particularly Amazon Simple Storage Service (Amazon S3).</description>
+	<packaging>jar</packaging>
+	<version>1.0</version>
+		
+</project>
