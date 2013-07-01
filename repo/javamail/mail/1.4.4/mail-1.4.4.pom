@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>javamail</groupId>
+  <artifactId>mail</artifactId>
+  <name>mail</name>
+  <url>http://www.oracle.com/technetwork/java/javamail/index.html </url>
+  <description>The JavaMail API and all service providers downloaded from Oracle website</description>
+  <packaging>jar</packaging>
+  <version>1.4.4</version>
+  
+</project>

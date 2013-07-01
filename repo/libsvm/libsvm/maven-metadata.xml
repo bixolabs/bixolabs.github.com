@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>libsvm</groupId>
+  <artifactId>libsvm</artifactId>
+  <version>3.0</version>
+  <versioning>
+    <versions>
+      <version>3.0</version>
+    </versions>
+    <lastUpdated>20110213221112</lastUpdated>
+  </versioning>
+</metadata>
